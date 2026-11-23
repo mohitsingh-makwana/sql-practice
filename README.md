@@ -1,1 +1,27 @@
 # sql-practice
+# SQL Practice
+
+My SQL practice using MySQL. I solve problems from LeetCode and other platforms, and I also write queries on my own sample database.
+
+## Topics
+- [ ] Basics (SELECT, WHERE, ORDER BY, LIMIT)
+- [ ] Joins
+- [ ] Aggregation (GROUP BY, HAVING)
+- [ ] Subqueries
+- [ ] Window Functions
+- [ ] CTEs
+- [ ] Constraints, Indexes, Normalization
+
+## Progress
+
+| # | Problem | Topic | Difficulty | Solution |
+|---|---------|-------|------------|----------|
+| 181 | Employees Earning More Than Their Managers | Joins | Easy | [SQL](joins/181_employees_earning_more_than_managers.sql) |
+| 176 | Second Highest Salary | Subqueries | Medium | [SQL](subqueries/176_second_highest_salary.sql) |
+
+## Sample database
+Run `schema/company_db.sql` to create the tables used in the practice queries.
+
+## Connect
+- LinkedIn: [http://www.linkedin.com/in/mohit-singh-makwana18]
+- Email: [mahi20thakur@gmail.com]
