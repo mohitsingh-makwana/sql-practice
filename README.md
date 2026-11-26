@@ -18,6 +18,7 @@ My SQL practice using MySQL. I solve problems from LeetCode and other platforms,
 |---|---------|-------|------------|----------|
 | 181 | Employees Earning More Than Their Managers | Joins | Easy | [SQL](joins/181_employees_earning_more_than_managers.sql) |
 | 176 | Second Highest Salary | Subqueries | Medium | [SQL](subqueries/176_second_highest_salary.sql) |
+| 1484 | Group Sold Products By The Date | Aggregation | Easy | [SQL](aggregation/1484_group_sold_products_by_the_date.sql) |
 
 ## Sample database
 Run `schema/company_db.sql` to create the tables used in the practice queries.
