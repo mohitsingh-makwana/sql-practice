@@ -1,5 +1,5 @@
 -- Problem: Second Highest Salary
--- Platform: LeetCode #181
+-- Platform: LeetCode #176
 -- Link: https://leetcode.com/problems/employees-earning-more-than-their-managers/
 -- Difficulty: Medium
 -- Topic: Subqueries
