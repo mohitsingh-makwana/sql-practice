@@ -20,6 +20,7 @@ My SQL practice using MySQL. I solve problems from LeetCode and other platforms,
 | 176 | Second Highest Salary | Subqueries | Medium | [SQL](subqueries/176_second_highest_salary.sql) |
 | 1484 | Group Sold Products By The Date | Aggregation | Easy | [SQL](aggregation/1484_group_sold_products_by_the_date.sql) |
 | 182 | Duplicate Emails | Aggregation | Easy | [SQL](aggregation/182_duplicate_emails.sql) |
+| 183 | Customers Who Never Order | Basics | Easy | [SQL](basics/183_customers_who_never_orders.sql) |
 
 
 ## Sample database
